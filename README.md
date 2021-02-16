@@ -2,6 +2,8 @@
 
 There are too many tabs in Chrome browser. What can we do? This extension program will help you record the time to visit Tab and sort your Tabs according to the nearest least used algorithm (LRU), so you can quickly find the Tab you used recently.
 
+[Install from Chrome Webstore](https://chrome.google.com/webstore/detail/sort-your-tabs/nklfihfgeahafohicfjelijkmiedeikd)
+
 # Introduction to Use
 
 1. After installation, use the shortcut key （Ctrl (win) / Command (MAC) + Shift + 1） to initialize. The extender will start to record the time when you visit tab. The next time you want to reinitialize and remember the current Tab sort, you can also execute the command;
@@ -14,6 +16,8 @@ There are too many tabs in Chrome browser. What can we do? This extension progra
 
 # 简介
 Chrome浏览器Tab开启太多了，怎么办法？该拓展程序会帮助您记录访问Tab的时间，并可以按照最近最少使用算法（LRU）对您的Tabs进行排序，您就可以快速找到您最近使用的Tab。
+
+[去Chrome应用商店安装](https://chrome.google.com/webstore/detail/sort-your-tabs/nklfihfgeahafohicfjelijkmiedeikd)
 
 # 使用方法
 
